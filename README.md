@@ -4,6 +4,8 @@
 
 ## HAVE FUN!!!
 
+The solutions are under __solutions__ branch.
+
 ### Author
 
 Juanito Fatas
